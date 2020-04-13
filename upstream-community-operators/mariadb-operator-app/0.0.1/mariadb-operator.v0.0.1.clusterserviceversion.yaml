@@ -163,6 +163,11 @@ spec:
     type: MultiNamespace
   - supported: false
     type: AllNamespaces
+  keywords:
+  - mariadb-operator
+  - mariadb
+  - kubernetes
+  - database
   maturity: alpha
   version: 0.0.1
   maintainers:
